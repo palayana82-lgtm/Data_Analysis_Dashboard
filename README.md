@@ -10,7 +10,8 @@ The Vrinda Store wants to creates an annual sales report for 2022 . So that , th
 - what are different order status in 2022?
 - List top 10 states contributingto  the sales ?
 - Highest Selling Category ?
-- Percentage OF Total Orders delivered 
+- Percentage OF Total Orders delivered
+- Dashboard interactive View Dashboard
 ## Process
 - verify data for any missing values and anomalies ,and sort out the same .
 - Made sure data is  consistent and clean with respect to data type , data format and values used.
